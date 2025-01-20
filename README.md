@@ -1,11 +1,13 @@
 
 
-# Pumpfun Sniper Bot
+# Solana Pumpfun Sniper Bot
 
 ***Pumpfun Sniper Bot*** is an automated trading tool designed for Pump.fun. It monitors new token creation events, places buy orders, and sells tokens automatically after a customizable delay. The bot is simple to set up and fully configurable through environment variables.
 
 ## Contact me
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
+
+X: [@dwlee918](https://x.com/@dwlee918)
 
 ## Features
 
