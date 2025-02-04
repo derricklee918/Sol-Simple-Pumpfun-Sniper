@@ -18,6 +18,13 @@ X: [@dwlee918](https://x.com/@dwlee918)
 
 ![alt text](https://i.imgur.com/rGbG3rT.png)
 
+
+## Clone this repository
+```bash
+git clone https://github.com/derricklee918/Solona-Simple-Pumpfun-Sniper.git
+cd Solona-Simple-Pumpfun-Sniper
+```
+
 ## Quick Start
 
 1. **Install Dependencies**:
